@@ -6,7 +6,7 @@ subtitle: Environmental Science | Statistical Analysis | Public Health
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: assets/prof_pic.jpg
   image_circular: false
   
 selected_papers: true # includes a list of papers marked as "selected={true}"
