@@ -29,5 +29,3 @@ My research experience includes constructing an eddy covariance flux tower to st
 I currently work in environmental health, where I help test rural private drinking water wells and provide recommendations to property owners. This experience has strengthened my interest in understanding how environmental exposures affect human health and how statistical methods can help identify patterns, evaluate risks, and inform practical solutions.
 
 I am particularly interested in research at the intersection of environmental science, statistics, and public health, including drinking water quality, environmental exposures, and the use of data to investigate environmental health outcomes.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
