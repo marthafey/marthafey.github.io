@@ -26,8 +26,13 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I am a graduate from the University of Iowa with interests in statistics, water quality, and the connections between environmental conditions and human health.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research experience includes constructing an eddy covariance flux tower to study prairie restoration and environmental processes related to carbon cycling. Through this work, I gained hands-on experience with environmental instrumentation, data collection, and research supporting climate and land management strategies.
+
+I currently work in environmental health, where I help test private drinking water wells and provide recommendations results to property owners. This experience has strengthened my interest in understanding how environmental exposures affect human health and how scientific research can inform practical solutions.
+
+I am interested in opportunities to further explore environmental research, water quality, and the relationship between environmental systems and public health.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
