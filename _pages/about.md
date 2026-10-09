@@ -2,26 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: Environmental Science | Statistical Analysis | Public Health
+subtitle: "Environmental Science | Statistical Analysis | Environmental Research | Public Health"
 
 profile:
   align: right
-  image: assets/prof_pic.jpg
+  image: prof_pic.jpg
   image_circular: false
-  
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
+
 I am an environmental science graduate from the University of Iowa with interests in environmental monitoring, statistical analysis, drinking water quality, and the connections between environmental conditions and human health.
 
 My research experience includes constructing an eddy covariance flux tower to study prairie restoration and environmental processes related to carbon cycling. Through this work, I gained hands-on experience with environmental instrumentation, data collection, and research supporting climate and land management strategies. My academic background also includes statistics, GIS, and programming in R and Python, which I am interested in applying to environmental data analysis and quantitative research.
