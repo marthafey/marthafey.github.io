@@ -1,0 +1,6 @@
+/* Hide category and status labels on bookshelf cards */
+.book-card .badge,
+.book-card .categories,
+.book-card .status {
+  display: none !important;
+}
