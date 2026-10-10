@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Environmental Health | Statistical Analysis | Public Health | [LinkedIn](https://www.linkedin.com/in/martha-fey/)"
+subtitle: "Environmental Health | Statistical Analysis | Public Health"
 
 profile:
   align: right
