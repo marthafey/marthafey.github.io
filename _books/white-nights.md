@@ -2,6 +2,6 @@
 layout: book-review
 title: White Nights
 author: Fyodor Dostoevsky
-olid: OL22143215M
+olid: OL39470213M
 categories: [Fiction, Classics]
 ---
