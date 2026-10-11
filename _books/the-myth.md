@@ -2,6 +2,6 @@
 layout: book-review
 title: The Myth of Sisyphus
 author: Albert Camus
-olid: OL15473781M
+olid: OL24214908M
 categories: [Philosophy, Nonfiction]
 ---
