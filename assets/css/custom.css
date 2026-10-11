@@ -1,4 +1,1 @@
 /* Hide category and status labels on bookshelf cards */
-figcaption.uncategorized {
-  display: none !important;
-}
