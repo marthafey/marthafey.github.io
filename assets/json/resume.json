@@ -5,59 +5,38 @@
     "email": "marthafey17@gmail.com",
     "summary": "University of Iowa graduate with experience in environmental health, statistical analysis, and researched focused on environmental exposures.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Cedar Rapids",
+      "region": "Iowa"
     },
     "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "Benton County",
+      "position": "Environmental Health and Land Use Assistant",
+      "location": "Vinton, IA",
+      "startDate": "2026-04-01",
+      "endDate": "Present",
+      "summary": "Conducted private well water testing and communicated results with property owners to support safe drinking water.",
+      "highlights": ["Water quality", "Public Health"]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "name": "Harsco Environmental",
+      "position": "Intern",
+      "location": "Muscatine, IA",
+      "startDate": "2025-07-01",
+      "endDate": "2026-01-01",
+      "summary": "Developed safety training materials and operational procedures to improve employee training and support safer industrial operations.",
+      "highlights": ["Employee training", "Procedure development"]
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "University of Iowa",
+      "position": "Research Assistant",
+      "location": "Iowa City, Iowa",
+      "startDate": "2023-03-01",
+      "endDate": "2025-05-01",
+      "summary": "Wired and integrated sensor systems and power components to build an Eddy Covariance flux tower to monitor a prarie restoration.",
+      "highlights": ["Environmental data", "Sensor integration"]
     }
   ],
   "volunteer": [
