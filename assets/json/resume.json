@@ -1,11 +1,9 @@
 {
   "basics": {
     "name": "Martha Fey",
-    "label": "Scientist",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "marthafey17@gmail.com",
+    "summary": "University of Iowa graduate with experience in environmental health, statistical analysis, and researched focused on environmental exposures.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
