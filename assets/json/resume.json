@@ -60,16 +60,16 @@
       "endDate": "2025-05-01",
       "score": "3.9/4.0",
       "courses": ["Applied Linear Regression"],
-      "highlights": ["Biogeography.", "Programming for Informatics"]
+      "highlights": ["Biogeography", "Programming for Informatics"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "IdeaStorm Spring 2024 Competition, 2nd Place",
+      "date": "2024-02-22",
+      "awarder": "University of Iowa John Pappajohn Entrepreneurial Center",
+      "url": "https://iowajpec.org/news/2024/02/11-university-iowa-students-shine-ideastorm-share-4400",
+      "summary": "Awarded $400 for developing and pitching a food sensitivity app at the University of Iowa's IdeaStorm competition, which recognizes innovative solutions to everyday problems"
     },
     {
       "title": "Max Planck Medal",
