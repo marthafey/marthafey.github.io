@@ -55,7 +55,7 @@
       "institution": "University of Iowa",
       "location": "Iowa City, Iowa",
       "area": "Sustainability Science",
-      "studyType": "BS",
+      "studyType": "Bachelor of Science",
       "startDate": "2021-08-01",
       "endDate": "2025-05-01",
       "score": "3.9/4.0",
@@ -66,13 +66,13 @@
   "awards": [
     {
       "title": "Outstanding Fourth-Year Student Award",
-      "date": "2024-02-22",
+      "date": "2025-02-22",
       "awarder": "University of Iowa Department of Geographical and Sustainability Sciences",
       "summary": "Selected as an outstanding fourth-year student in recognition of academic excellence and dedication to learning. Received a $1,000 scholarship through the Martha L. Corry Fund for Geography."
     },
     {
       "title": "IdeaStorm Spring 2024 Competition, 2nd Place",
-      "date": "2022-02-22",
+      "date": "2024-02-22",
       "awarder": "University of Iowa John Pappajohn Entrepreneurial Center",
       "url": "https://iowajpec.org/news/2024/02/11-university-iowa-students-shine-ideastorm-share-4400",
       "summary": "Awarded $400 for developing and pitching a food sensitivity app at the University of Iowa's IdeaStorm competition, which recognizes innovative solutions to everyday problems."
@@ -120,20 +120,6 @@
       "language": "Spanish",
       "fluency": "Conversational",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
     }
   ],
   "projects": [
