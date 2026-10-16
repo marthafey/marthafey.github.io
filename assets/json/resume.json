@@ -78,26 +78,6 @@
       "summary": "Awarded $400 for developing and pitching a food sensitivity app at the University of Iowa's IdeaStorm competition, which recognizes innovative solutions to everyday problems."
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
-    }
-  ],
   "skills": [
     {
       "name": "Data Analytics",
