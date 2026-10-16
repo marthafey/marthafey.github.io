@@ -110,7 +110,6 @@ pagination:
     {% endif %}
 
     {% for post in postlist %}
-    {% if post.title == "Brain Drain in Iowa" %}
     
     {% if post.external_source == blank %}
       {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
@@ -160,7 +159,6 @@ pagination:
               {% unless forloop.last %}
                 &nbsp;
               {% endunless %}
-              {% endif %}
               {% endfor %}
           {% endif %}
 
