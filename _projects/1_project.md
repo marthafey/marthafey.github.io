@@ -4,7 +4,7 @@ title: Brain Drain in Iowa
 description: Under construction! Project coming soon.
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: fun
 related_publications: true
 ---
 
